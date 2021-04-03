@@ -1,0 +1,18 @@
+[
+  {
+    "cidade": "Abaete",
+    "estado": "MG",
+    "sigla": "AET",
+    "flagCelular": "TRUE",
+    "menuExibido": "SIM",
+    "obs": "N/A"
+  },
+  {
+    "cidade": "Alagoa",
+    "estado": "MG",
+    "sigla": "ALK",
+    "flagCelular": "TRUE",
+    "menuExibido": "SIM",
+    "obs": "N/A"
+  }
+]
